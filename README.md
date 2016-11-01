@@ -54,5 +54,5 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+General feedback: after spending 3 hours on the .ended state without luck on the spring back in the gray state or showing the list view or later view, I've given up on that part of the requirements. It would be truly amazing if concepts were explained in class. The "how" part is being explained well with the labs (ex: how to create an outlet - ctrl +click and drag to cocoa touch file), but what's missing are the "why" and "what." Ex: explanations on why you use .translate or why you have to define the center of your view in a local variable before calling it, and "what" a .translate is or what a CGPoint is and why we use it or why we use it with an exclamation mark. These explanations would make a world of difference in helping those of us that learn by knowing why something is done in addition to how it's done, to learn Swift.
 
